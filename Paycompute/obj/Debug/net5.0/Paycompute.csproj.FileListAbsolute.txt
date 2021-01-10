@@ -1,0 +1,6 @@
+D:\Fakullteti\Ligjerata\Semestri Rindjekje\Hyrje ne Web Programim\Projekti\Paycompute\obj\Debug\net5.0\Paycompute.csprojAssemblyReference.cache
+D:\Fakullteti\Ligjerata\Semestri Rindjekje\Hyrje ne Web Programim\Projekti\Paycompute\obj\Debug\net5.0\Paycompute.GeneratedMSBuildEditorConfig.editorconfig
+D:\Fakullteti\Ligjerata\Semestri Rindjekje\Hyrje ne Web Programim\Projekti\Paycompute\obj\Debug\net5.0\Paycompute.AssemblyInfoInputs.cache
+D:\Fakullteti\Ligjerata\Semestri Rindjekje\Hyrje ne Web Programim\Projekti\Paycompute\obj\Debug\net5.0\Paycompute.AssemblyInfo.cs
+D:\Fakullteti\Ligjerata\Semestri Rindjekje\Hyrje ne Web Programim\Projekti\Paycompute\obj\Debug\net5.0\Paycompute.csproj.CoreCompileInputs.cache
+D:\Fakullteti\Ligjerata\Semestri Rindjekje\Hyrje ne Web Programim\Projekti\Paycompute\obj\Debug\net5.0\Paycompute.MvcApplicationPartsAssemblyInfo.cache

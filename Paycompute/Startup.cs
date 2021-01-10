@@ -8,7 +8,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
-using Paycompute.Data;
+using Paycompute.Persistence;
 using System;
 using System.Collections.Generic;
 using System.Linq;
