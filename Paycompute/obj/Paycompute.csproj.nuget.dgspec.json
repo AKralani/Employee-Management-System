@@ -1,0 +1,268 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Fakullteti\\Ligjerata\\Semestri Rindjekje\\Hyrje ne Web Programim\\Projekti\\Paycompute\\Paycompute.csproj": {}
+  },
+  "projects": {
+    "D:\\Fakullteti\\Ligjerata\\Semestri Rindjekje\\Hyrje ne Web Programim\\Projekti\\Paycompute.Entity\\Paycompute.Entity.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Fakullteti\\Ligjerata\\Semestri Rindjekje\\Hyrje ne Web Programim\\Projekti\\Paycompute.Entity\\Paycompute.Entity.csproj",
+        "projectName": "Paycompute.Entity",
+        "projectPath": "D:\\Fakullteti\\Ligjerata\\Semestri Rindjekje\\Hyrje ne Web Programim\\Projekti\\Paycompute.Entity\\Paycompute.Entity.csproj",
+        "packagesPath": "C:\\Users\\ak-mi\\.nuget\\packages\\",
+        "outputPath": "D:\\Fakullteti\\Ligjerata\\Semestri Rindjekje\\Hyrje ne Web Programim\\Projekti\\Paycompute.Entity\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ak-mi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Fakullteti\\Ligjerata\\Semestri Rindjekje\\Hyrje ne Web Programim\\Projekti\\Paycompute.Persistence\\Paycompute.Persistence.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Fakullteti\\Ligjerata\\Semestri Rindjekje\\Hyrje ne Web Programim\\Projekti\\Paycompute.Persistence\\Paycompute.Persistence.csproj",
+        "projectName": "Paycompute.Persistence",
+        "projectPath": "D:\\Fakullteti\\Ligjerata\\Semestri Rindjekje\\Hyrje ne Web Programim\\Projekti\\Paycompute.Persistence\\Paycompute.Persistence.csproj",
+        "packagesPath": "C:\\Users\\ak-mi\\.nuget\\packages\\",
+        "outputPath": "D:\\Fakullteti\\Ligjerata\\Semestri Rindjekje\\Hyrje ne Web Programim\\Projekti\\Paycompute.Persistence\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ak-mi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "D:\\Fakullteti\\Ligjerata\\Semestri Rindjekje\\Hyrje ne Web Programim\\Projekti\\Paycompute.Entity\\Paycompute.Entity.csproj": {
+                "projectPath": "D:\\Fakullteti\\Ligjerata\\Semestri Rindjekje\\Hyrje ne Web Programim\\Projekti\\Paycompute.Entity\\Paycompute.Entity.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Fakullteti\\Ligjerata\\Semestri Rindjekje\\Hyrje ne Web Programim\\Projekti\\Paycompute.Services\\Paycompute.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Fakullteti\\Ligjerata\\Semestri Rindjekje\\Hyrje ne Web Programim\\Projekti\\Paycompute.Services\\Paycompute.Services.csproj",
+        "projectName": "Paycompute.Services",
+        "projectPath": "D:\\Fakullteti\\Ligjerata\\Semestri Rindjekje\\Hyrje ne Web Programim\\Projekti\\Paycompute.Services\\Paycompute.Services.csproj",
+        "packagesPath": "C:\\Users\\ak-mi\\.nuget\\packages\\",
+        "outputPath": "D:\\Fakullteti\\Ligjerata\\Semestri Rindjekje\\Hyrje ne Web Programim\\Projekti\\Paycompute.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ak-mi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "D:\\Fakullteti\\Ligjerata\\Semestri Rindjekje\\Hyrje ne Web Programim\\Projekti\\Paycompute.Entity\\Paycompute.Entity.csproj": {
+                "projectPath": "D:\\Fakullteti\\Ligjerata\\Semestri Rindjekje\\Hyrje ne Web Programim\\Projekti\\Paycompute.Entity\\Paycompute.Entity.csproj"
+              },
+              "D:\\Fakullteti\\Ligjerata\\Semestri Rindjekje\\Hyrje ne Web Programim\\Projekti\\Paycompute.Persistence\\Paycompute.Persistence.csproj": {
+                "projectPath": "D:\\Fakullteti\\Ligjerata\\Semestri Rindjekje\\Hyrje ne Web Programim\\Projekti\\Paycompute.Persistence\\Paycompute.Persistence.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Fakullteti\\Ligjerata\\Semestri Rindjekje\\Hyrje ne Web Programim\\Projekti\\Paycompute\\Paycompute.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Fakullteti\\Ligjerata\\Semestri Rindjekje\\Hyrje ne Web Programim\\Projekti\\Paycompute\\Paycompute.csproj",
+        "projectName": "Paycompute",
+        "projectPath": "D:\\Fakullteti\\Ligjerata\\Semestri Rindjekje\\Hyrje ne Web Programim\\Projekti\\Paycompute\\Paycompute.csproj",
+        "packagesPath": "C:\\Users\\ak-mi\\.nuget\\packages\\",
+        "outputPath": "D:\\Fakullteti\\Ligjerata\\Semestri Rindjekje\\Hyrje ne Web Programim\\Projekti\\Paycompute\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ak-mi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "targetAlias": "netcoreapp2.2",
+            "projectReferences": {
+              "D:\\Fakullteti\\Ligjerata\\Semestri Rindjekje\\Hyrje ne Web Programim\\Projekti\\Paycompute.Entity\\Paycompute.Entity.csproj": {
+                "projectPath": "D:\\Fakullteti\\Ligjerata\\Semestri Rindjekje\\Hyrje ne Web Programim\\Projekti\\Paycompute.Entity\\Paycompute.Entity.csproj"
+              },
+              "D:\\Fakullteti\\Ligjerata\\Semestri Rindjekje\\Hyrje ne Web Programim\\Projekti\\Paycompute.Services\\Paycompute.Services.csproj": {
+                "projectPath": "D:\\Fakullteti\\Ligjerata\\Semestri Rindjekje\\Hyrje ne Web Programim\\Projekti\\Paycompute.Services\\Paycompute.Services.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "targetAlias": "netcoreapp2.2",
+          "dependencies": {
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.Razor.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
