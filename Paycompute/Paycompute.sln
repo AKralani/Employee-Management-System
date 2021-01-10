@@ -5,8 +5,6 @@ VisualStudioVersion = 16.0.30804.86
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Paycompute", "Paycompute.csproj", "{549ABB77-1FF1-4B17-8C09-9CD36038BC06}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaycomputeServices", "..\PaycomputeServices\PaycomputeServices.csproj", "{BDD06520-F7E1-4451-9609-B02A63691858}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Paycompute.Services", "..\Paycompute.Services\Paycompute.Services.csproj", "{4D887EE6-3462-446D-91AD-47DD2D504FBA}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Paycompute.Persistence", "..\Paycompute.Persistence\Paycompute.Persistence.csproj", "{775AE411-3B83-4F93-A2A0-0ACB3E9B5695}"
@@ -23,10 +21,6 @@ Global
 		{549ABB77-1FF1-4B17-8C09-9CD36038BC06}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{549ABB77-1FF1-4B17-8C09-9CD36038BC06}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{549ABB77-1FF1-4B17-8C09-9CD36038BC06}.Release|Any CPU.Build.0 = Release|Any CPU
-		{BDD06520-F7E1-4451-9609-B02A63691858}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{BDD06520-F7E1-4451-9609-B02A63691858}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{BDD06520-F7E1-4451-9609-B02A63691858}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{BDD06520-F7E1-4451-9609-B02A63691858}.Release|Any CPU.Build.0 = Release|Any CPU
 		{4D887EE6-3462-446D-91AD-47DD2D504FBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{4D887EE6-3462-446D-91AD-47DD2D504FBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4D887EE6-3462-446D-91AD-47DD2D504FBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
