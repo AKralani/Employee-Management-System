@@ -12,3 +12,17 @@ D:\Fakullteti\Ligjerata\Semestri Rindjekje\Hyrje ne Web Programim\Projekti\Payco
 D:\Fakullteti\Ligjerata\Semestri Rindjekje\Hyrje ne Web Programim\Projekti\Paycompute.Services\obj\Debug\netcoreapp2.2\Paycompute.Services.csproj.CopyComplete
 D:\Fakullteti\Ligjerata\Semestri Rindjekje\Hyrje ne Web Programim\Projekti\Paycompute.Services\obj\Debug\netcoreapp2.2\Paycompute.Services.dll
 D:\Fakullteti\Ligjerata\Semestri Rindjekje\Hyrje ne Web Programim\Projekti\Paycompute.Services\obj\Debug\netcoreapp2.2\Paycompute.Services.pdb
+C:\Users\Lenovo\Source\Repos\Employee-Management-System\Paycompute.Services\bin\Debug\netcoreapp2.2\Paycompute.Services.deps.json
+C:\Users\Lenovo\Source\Repos\Employee-Management-System\Paycompute.Services\bin\Debug\netcoreapp2.2\Paycompute.Services.dll
+C:\Users\Lenovo\Source\Repos\Employee-Management-System\Paycompute.Services\bin\Debug\netcoreapp2.2\Paycompute.Services.pdb
+C:\Users\Lenovo\Source\Repos\Employee-Management-System\Paycompute.Services\bin\Debug\netcoreapp2.2\Paycompute.Entity.dll
+C:\Users\Lenovo\Source\Repos\Employee-Management-System\Paycompute.Services\bin\Debug\netcoreapp2.2\Paycompute.Persistence.dll
+C:\Users\Lenovo\Source\Repos\Employee-Management-System\Paycompute.Services\bin\Debug\netcoreapp2.2\Paycompute.Entity.pdb
+C:\Users\Lenovo\Source\Repos\Employee-Management-System\Paycompute.Services\bin\Debug\netcoreapp2.2\Paycompute.Persistence.pdb
+C:\Users\Lenovo\Source\Repos\Employee-Management-System\Paycompute.Services\obj\Debug\netcoreapp2.2\Paycompute.Services.csprojAssemblyReference.cache
+C:\Users\Lenovo\Source\Repos\Employee-Management-System\Paycompute.Services\obj\Debug\netcoreapp2.2\Paycompute.Services.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Source\Repos\Employee-Management-System\Paycompute.Services\obj\Debug\netcoreapp2.2\Paycompute.Services.AssemblyInfo.cs
+C:\Users\Lenovo\Source\Repos\Employee-Management-System\Paycompute.Services\obj\Debug\netcoreapp2.2\Paycompute.Services.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Source\Repos\Employee-Management-System\Paycompute.Services\obj\Debug\netcoreapp2.2\Paycompute.Services.csproj.CopyComplete
+C:\Users\Lenovo\Source\Repos\Employee-Management-System\Paycompute.Services\obj\Debug\netcoreapp2.2\Paycompute.Services.dll
+C:\Users\Lenovo\Source\Repos\Employee-Management-System\Paycompute.Services\obj\Debug\netcoreapp2.2\Paycompute.Services.pdb
