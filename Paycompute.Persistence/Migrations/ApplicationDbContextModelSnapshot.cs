@@ -232,6 +232,8 @@ namespace Paycompute.Persistence.Migrations
 
                     b.Property<int>("PaymentMethod");
 
+                    b.Property<string>("Phone");
+
                     b.Property<string>("Postcode")
                         .IsRequired()
                         .HasMaxLength(50);

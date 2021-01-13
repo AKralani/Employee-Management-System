@@ -2,6 +2,7 @@
 using Paycompute.Persistence;
 using System;
 using System.Collections.Generic;
+using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -24,8 +25,8 @@ namespace Paycompute.Services.Implementation
           await  _context.SaveChangesAsync();
         }
 
-        public Employee GetById(int employeeId) => 
-            _context.Employees.Where(e => e.Id == employeeId).FirstOrDefault()
+        public Employee GetById(int employeeId) =>
+            _context.Employees.Where(e => e.Id == employeeId).FirstOrDefault();
        
 
         public async Task Delete(int employeeId)
@@ -61,6 +62,9 @@ namespace Paycompute.Services.Implementation
             throw new NotImplementedException();
         }
 
-        
+        public Task UpdateAsync(IEmployeeService employee)
+        {
+            throw new NotImplementedException();
+        }
     }
 }

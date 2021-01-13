@@ -14,12 +14,12 @@ namespace Paycompute.Models
         [Required (ErrorMessage ="Employee Number is require"),
             RegularExpression(@"^[A-Z]{3,3}[0-9]{3} $")]
         public string EmployeeNo { get; set; }
-        [Required(ErrorMessage ="First name is required"), StringLength(50, MinimumLength =2)]
+        [Required(ErrorMessage ="First Name is required"), StringLength(50, MinimumLength =2)]
         [RegularExpression(@"^[A-Z] [a-zA-Z""'\s-]*$"),Display(Name ="First Name" )]
         public string FirstName { get; set; }
         [StringLength(50),Display(Name ="Middle Name")]
         public string MiddleName { get; set; }
-        [Required(ErrorMessage = "Last name is required"), StringLength(50, MinimumLength = 2)]
+        [Required(ErrorMessage = "Last Name is required"), StringLength(50, MinimumLength = 2)]
         [RegularExpression(@"^[A-Z] [a-zA-Z""'\s-]*$"), Display(Name = "Last Name")]
         public string LastName { get; set; }
         public string FullName {

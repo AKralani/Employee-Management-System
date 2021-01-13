@@ -12,7 +12,7 @@ namespace Paycompute.Services
 
         Employee GetById(int employeeId);
 
-        Task UpdateAsync(IEmployeeService employee);
+        Task UpdateAsync(Employee employee);
 
         Task UpdateAsync(int id);
 
