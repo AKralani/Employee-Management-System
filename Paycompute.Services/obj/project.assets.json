@@ -4429,23 +4429,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ak-mi\\.nuget\\packages\\": {},
+    "C:\\Users\\Lenovo\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Fakullteti\\Ligjerata\\Semestri Rindjekje\\Hyrje ne Web Programim\\Projekti\\Employee-Management-System\\Paycompute.Services\\Paycompute.Services.csproj",
+      "projectUniqueName": "C:\\Users\\Lenovo\\source\\repos\\Employee-Management-System\\Paycompute.Services\\Paycompute.Services.csproj",
       "projectName": "Paycompute.Services",
-      "projectPath": "D:\\Fakullteti\\Ligjerata\\Semestri Rindjekje\\Hyrje ne Web Programim\\Projekti\\Employee-Management-System\\Paycompute.Services\\Paycompute.Services.csproj",
-      "packagesPath": "C:\\Users\\ak-mi\\.nuget\\packages\\",
-      "outputPath": "D:\\Fakullteti\\Ligjerata\\Semestri Rindjekje\\Hyrje ne Web Programim\\Projekti\\Employee-Management-System\\Paycompute.Services\\obj\\",
+      "projectPath": "C:\\Users\\Lenovo\\source\\repos\\Employee-Management-System\\Paycompute.Services\\Paycompute.Services.csproj",
+      "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Lenovo\\source\\repos\\Employee-Management-System\\Paycompute.Services\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\ak-mi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -4459,11 +4459,11 @@
         "netcoreapp2.2": {
           "targetAlias": "netcoreapp2.2",
           "projectReferences": {
-            "D:\\Fakullteti\\Ligjerata\\Semestri Rindjekje\\Hyrje ne Web Programim\\Projekti\\Employee-Management-System\\Paycompute.Entity\\Paycompute.Entity.csproj": {
-              "projectPath": "D:\\Fakullteti\\Ligjerata\\Semestri Rindjekje\\Hyrje ne Web Programim\\Projekti\\Employee-Management-System\\Paycompute.Entity\\Paycompute.Entity.csproj"
+            "C:\\Users\\Lenovo\\source\\repos\\Employee-Management-System\\Paycompute.Entity\\Paycompute.Entity.csproj": {
+              "projectPath": "C:\\Users\\Lenovo\\source\\repos\\Employee-Management-System\\Paycompute.Entity\\Paycompute.Entity.csproj"
             },
-            "D:\\Fakullteti\\Ligjerata\\Semestri Rindjekje\\Hyrje ne Web Programim\\Projekti\\Employee-Management-System\\Paycompute.Persistence\\Paycompute.Persistence.csproj": {
-              "projectPath": "D:\\Fakullteti\\Ligjerata\\Semestri Rindjekje\\Hyrje ne Web Programim\\Projekti\\Employee-Management-System\\Paycompute.Persistence\\Paycompute.Persistence.csproj"
+            "C:\\Users\\Lenovo\\source\\repos\\Employee-Management-System\\Paycompute.Persistence\\Paycompute.Persistence.csproj": {
+              "projectPath": "C:\\Users\\Lenovo\\source\\repos\\Employee-Management-System\\Paycompute.Persistence\\Paycompute.Persistence.csproj"
             }
           }
         }
@@ -4495,7 +4495,7 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }
