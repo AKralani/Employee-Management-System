@@ -40,3 +40,17 @@ D:\Fakullteti\Ligjerata\Semestri Rindjekje\Hyrje ne Web Programim\Projekti\Emplo
 D:\Fakullteti\Ligjerata\Semestri Rindjekje\Hyrje ne Web Programim\Projekti\Employee-Management-System\Paycompute.Services\bin\Debug\netcoreapp2.2\Paycompute.Entity.pdb
 D:\Fakullteti\Ligjerata\Semestri Rindjekje\Hyrje ne Web Programim\Projekti\Employee-Management-System\Paycompute.Services\bin\Debug\netcoreapp2.2\Paycompute.Persistence.pdb
 D:\Fakullteti\Ligjerata\Semestri Rindjekje\Hyrje ne Web Programim\Projekti\Employee-Management-System\Paycompute.Services\obj\Debug\netcoreapp2.2\Paycompute.Services.csproj.CopyComplete
+C:\Users\User\source\repos\repos\Employee-Managment-System\Employee-Management-System\Paycompute.Services\bin\Debug\netcoreapp2.2\Paycompute.Services.deps.json
+C:\Users\User\source\repos\repos\Employee-Managment-System\Employee-Management-System\Paycompute.Services\bin\Debug\netcoreapp2.2\Paycompute.Services.dll
+C:\Users\User\source\repos\repos\Employee-Managment-System\Employee-Management-System\Paycompute.Services\bin\Debug\netcoreapp2.2\Paycompute.Services.pdb
+C:\Users\User\source\repos\repos\Employee-Managment-System\Employee-Management-System\Paycompute.Services\bin\Debug\netcoreapp2.2\Paycompute.Entity.dll
+C:\Users\User\source\repos\repos\Employee-Managment-System\Employee-Management-System\Paycompute.Services\bin\Debug\netcoreapp2.2\Paycompute.Persistence.dll
+C:\Users\User\source\repos\repos\Employee-Managment-System\Employee-Management-System\Paycompute.Services\bin\Debug\netcoreapp2.2\Paycompute.Entity.pdb
+C:\Users\User\source\repos\repos\Employee-Managment-System\Employee-Management-System\Paycompute.Services\bin\Debug\netcoreapp2.2\Paycompute.Persistence.pdb
+C:\Users\User\source\repos\repos\Employee-Managment-System\Employee-Management-System\Paycompute.Services\obj\Debug\netcoreapp2.2\Paycompute.Services.csprojAssemblyReference.cache
+C:\Users\User\source\repos\repos\Employee-Managment-System\Employee-Management-System\Paycompute.Services\obj\Debug\netcoreapp2.2\Paycompute.Services.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\repos\Employee-Managment-System\Employee-Management-System\Paycompute.Services\obj\Debug\netcoreapp2.2\Paycompute.Services.AssemblyInfo.cs
+C:\Users\User\source\repos\repos\Employee-Managment-System\Employee-Management-System\Paycompute.Services\obj\Debug\netcoreapp2.2\Paycompute.Services.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\repos\Employee-Managment-System\Employee-Management-System\Paycompute.Services\obj\Debug\netcoreapp2.2\Paycompute.Services.csproj.CopyComplete
+C:\Users\User\source\repos\repos\Employee-Managment-System\Employee-Management-System\Paycompute.Services\obj\Debug\netcoreapp2.2\Paycompute.Services.dll
+C:\Users\User\source\repos\repos\Employee-Managment-System\Employee-Management-System\Paycompute.Services\obj\Debug\netcoreapp2.2\Paycompute.Services.pdb

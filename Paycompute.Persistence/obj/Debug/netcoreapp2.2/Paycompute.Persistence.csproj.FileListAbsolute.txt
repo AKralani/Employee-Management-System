@@ -43,3 +43,18 @@ D:\Fakullteti\Ligjerata\Semestri Rindjekje\Hyrje ne Web Programim\Projekti\Emplo
 D:\Fakullteti\Ligjerata\Semestri Rindjekje\Hyrje ne Web Programim\Projekti\Employee-Management-System\Paycompute.Persistence\obj\Debug\netcoreapp2.2\Paycompute.Persistence.dll
 D:\Fakullteti\Ligjerata\Semestri Rindjekje\Hyrje ne Web Programim\Projekti\Employee-Management-System\Paycompute.Persistence\obj\Debug\netcoreapp2.2\Paycompute.Persistence.pdb
 D:\Fakullteti\Ligjerata\Semestri Rindjekje\Hyrje ne Web Programim\Projekti\Employee-Management-System\Paycompute.Persistence\obj\Debug\netcoreapp2.2\Paycompute.Persistence.genruntimeconfig.cache
+C:\Users\User\source\repos\repos\Employee-Managment-System\Employee-Management-System\Paycompute.Persistence\bin\Debug\netcoreapp2.2\Paycompute.Persistence.deps.json
+C:\Users\User\source\repos\repos\Employee-Managment-System\Employee-Management-System\Paycompute.Persistence\bin\Debug\netcoreapp2.2\Paycompute.Persistence.runtimeconfig.json
+C:\Users\User\source\repos\repos\Employee-Managment-System\Employee-Management-System\Paycompute.Persistence\bin\Debug\netcoreapp2.2\Paycompute.Persistence.runtimeconfig.dev.json
+C:\Users\User\source\repos\repos\Employee-Managment-System\Employee-Management-System\Paycompute.Persistence\bin\Debug\netcoreapp2.2\Paycompute.Persistence.dll
+C:\Users\User\source\repos\repos\Employee-Managment-System\Employee-Management-System\Paycompute.Persistence\bin\Debug\netcoreapp2.2\Paycompute.Persistence.pdb
+C:\Users\User\source\repos\repos\Employee-Managment-System\Employee-Management-System\Paycompute.Persistence\bin\Debug\netcoreapp2.2\Paycompute.Entity.dll
+C:\Users\User\source\repos\repos\Employee-Managment-System\Employee-Management-System\Paycompute.Persistence\bin\Debug\netcoreapp2.2\Paycompute.Entity.pdb
+C:\Users\User\source\repos\repos\Employee-Managment-System\Employee-Management-System\Paycompute.Persistence\obj\Debug\netcoreapp2.2\Paycompute.Persistence.csprojAssemblyReference.cache
+C:\Users\User\source\repos\repos\Employee-Managment-System\Employee-Management-System\Paycompute.Persistence\obj\Debug\netcoreapp2.2\Paycompute.Persistence.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\repos\Employee-Managment-System\Employee-Management-System\Paycompute.Persistence\obj\Debug\netcoreapp2.2\Paycompute.Persistence.AssemblyInfo.cs
+C:\Users\User\source\repos\repos\Employee-Managment-System\Employee-Management-System\Paycompute.Persistence\obj\Debug\netcoreapp2.2\Paycompute.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\repos\Employee-Managment-System\Employee-Management-System\Paycompute.Persistence\obj\Debug\netcoreapp2.2\Paycompute.Persistence.csproj.CopyComplete
+C:\Users\User\source\repos\repos\Employee-Managment-System\Employee-Management-System\Paycompute.Persistence\obj\Debug\netcoreapp2.2\Paycompute.Persistence.dll
+C:\Users\User\source\repos\repos\Employee-Managment-System\Employee-Management-System\Paycompute.Persistence\obj\Debug\netcoreapp2.2\Paycompute.Persistence.pdb
+C:\Users\User\source\repos\repos\Employee-Managment-System\Employee-Management-System\Paycompute.Persistence\obj\Debug\netcoreapp2.2\Paycompute.Persistence.genruntimeconfig.cache
