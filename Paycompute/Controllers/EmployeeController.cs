@@ -220,5 +220,5 @@ namespace Paycompute.Controllers
             await _employeeService.Delete(model.Id);
             return RedirectToAction(nameof(Index));
         }
-        }
+    }
 }

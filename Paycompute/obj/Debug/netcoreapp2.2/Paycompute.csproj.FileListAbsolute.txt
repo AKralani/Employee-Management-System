@@ -162,3 +162,4 @@ C:\Users\User\source\repos\repos\Employee-Managment-System\Employee-Management-S
 C:\Users\User\source\repos\repos\Employee-Managment-System\Employee-Management-System\Paycompute\obj\Debug\netcoreapp2.2\Paycompute.dll
 C:\Users\User\source\repos\repos\Employee-Managment-System\Employee-Management-System\Paycompute\obj\Debug\netcoreapp2.2\Paycompute.pdb
 C:\Users\User\source\repos\repos\Employee-Managment-System\Employee-Management-System\Paycompute\obj\Debug\netcoreapp2.2\Paycompute.genruntimeconfig.cache
+D:\Fakullteti\Ligjerata\Semestri Rindjekje\Hyrje ne Web Programim\Projekti\Employee-Management-System\Paycompute\obj\Debug\netcoreapp2.2\Razor\Views\Employee\Index.cshtml.g.cs
