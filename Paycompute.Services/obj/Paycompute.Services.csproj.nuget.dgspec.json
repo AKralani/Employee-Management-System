@@ -1,24 +1,26 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Fakullteti\\Ligjerata\\Semestri Rindjekje\\Hyrje ne Web Programim\\Projekti\\Employee-Management-System\\Paycompute.Services\\Paycompute.Services.csproj": {}
+    "C:\\Users\\User\\source\\repos\\repos\\Employee-Managment-System\\Employee-Management-System\\Paycompute.Services\\Paycompute.Services.csproj": {}
   },
   "projects": {
-    "D:\\Fakullteti\\Ligjerata\\Semestri Rindjekje\\Hyrje ne Web Programim\\Projekti\\Employee-Management-System\\Paycompute.Entity\\Paycompute.Entity.csproj": {
+    "C:\\Users\\User\\source\\repos\\repos\\Employee-Managment-System\\Employee-Management-System\\Paycompute.Entity\\Paycompute.Entity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Fakullteti\\Ligjerata\\Semestri Rindjekje\\Hyrje ne Web Programim\\Projekti\\Employee-Management-System\\Paycompute.Entity\\Paycompute.Entity.csproj",
+        "projectUniqueName": "C:\\Users\\User\\source\\repos\\repos\\Employee-Managment-System\\Employee-Management-System\\Paycompute.Entity\\Paycompute.Entity.csproj",
         "projectName": "Paycompute.Entity",
-        "projectPath": "D:\\Fakullteti\\Ligjerata\\Semestri Rindjekje\\Hyrje ne Web Programim\\Projekti\\Employee-Management-System\\Paycompute.Entity\\Paycompute.Entity.csproj",
-        "packagesPath": "C:\\Users\\ak-mi\\.nuget\\packages\\",
-        "outputPath": "D:\\Fakullteti\\Ligjerata\\Semestri Rindjekje\\Hyrje ne Web Programim\\Projekti\\Employee-Management-System\\Paycompute.Entity\\obj\\",
+        "projectPath": "C:\\Users\\User\\source\\repos\\repos\\Employee-Managment-System\\Employee-Management-System\\Paycompute.Entity\\Paycompute.Entity.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\User\\source\\repos\\repos\\Employee-Managment-System\\Employee-Management-System\\Paycompute.Entity\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\ak-mi\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp2.2"
@@ -60,25 +62,27 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Fakullteti\\Ligjerata\\Semestri Rindjekje\\Hyrje ne Web Programim\\Projekti\\Employee-Management-System\\Paycompute.Persistence\\Paycompute.Persistence.csproj": {
+    "C:\\Users\\User\\source\\repos\\repos\\Employee-Managment-System\\Employee-Management-System\\Paycompute.Persistence\\Paycompute.Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Fakullteti\\Ligjerata\\Semestri Rindjekje\\Hyrje ne Web Programim\\Projekti\\Employee-Management-System\\Paycompute.Persistence\\Paycompute.Persistence.csproj",
+        "projectUniqueName": "C:\\Users\\User\\source\\repos\\repos\\Employee-Managment-System\\Employee-Management-System\\Paycompute.Persistence\\Paycompute.Persistence.csproj",
         "projectName": "Paycompute.Persistence",
-        "projectPath": "D:\\Fakullteti\\Ligjerata\\Semestri Rindjekje\\Hyrje ne Web Programim\\Projekti\\Employee-Management-System\\Paycompute.Persistence\\Paycompute.Persistence.csproj",
-        "packagesPath": "C:\\Users\\ak-mi\\.nuget\\packages\\",
-        "outputPath": "D:\\Fakullteti\\Ligjerata\\Semestri Rindjekje\\Hyrje ne Web Programim\\Projekti\\Employee-Management-System\\Paycompute.Persistence\\obj\\",
+        "projectPath": "C:\\Users\\User\\source\\repos\\repos\\Employee-Managment-System\\Employee-Management-System\\Paycompute.Persistence\\Paycompute.Persistence.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\User\\source\\repos\\repos\\Employee-Managment-System\\Employee-Management-System\\Paycompute.Persistence\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\ak-mi\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp2.2"
@@ -91,8 +95,8 @@
           "netcoreapp2.2": {
             "targetAlias": "netcoreapp2.2",
             "projectReferences": {
-              "D:\\Fakullteti\\Ligjerata\\Semestri Rindjekje\\Hyrje ne Web Programim\\Projekti\\Employee-Management-System\\Paycompute.Entity\\Paycompute.Entity.csproj": {
-                "projectPath": "D:\\Fakullteti\\Ligjerata\\Semestri Rindjekje\\Hyrje ne Web Programim\\Projekti\\Employee-Management-System\\Paycompute.Entity\\Paycompute.Entity.csproj"
+              "C:\\Users\\User\\source\\repos\\repos\\Employee-Managment-System\\Employee-Management-System\\Paycompute.Entity\\Paycompute.Entity.csproj": {
+                "projectPath": "C:\\Users\\User\\source\\repos\\repos\\Employee-Managment-System\\Employee-Management-System\\Paycompute.Entity\\Paycompute.Entity.csproj"
               }
             }
           }
@@ -138,25 +142,27 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Fakullteti\\Ligjerata\\Semestri Rindjekje\\Hyrje ne Web Programim\\Projekti\\Employee-Management-System\\Paycompute.Services\\Paycompute.Services.csproj": {
+    "C:\\Users\\User\\source\\repos\\repos\\Employee-Managment-System\\Employee-Management-System\\Paycompute.Services\\Paycompute.Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Fakullteti\\Ligjerata\\Semestri Rindjekje\\Hyrje ne Web Programim\\Projekti\\Employee-Management-System\\Paycompute.Services\\Paycompute.Services.csproj",
+        "projectUniqueName": "C:\\Users\\User\\source\\repos\\repos\\Employee-Managment-System\\Employee-Management-System\\Paycompute.Services\\Paycompute.Services.csproj",
         "projectName": "Paycompute.Services",
-        "projectPath": "D:\\Fakullteti\\Ligjerata\\Semestri Rindjekje\\Hyrje ne Web Programim\\Projekti\\Employee-Management-System\\Paycompute.Services\\Paycompute.Services.csproj",
-        "packagesPath": "C:\\Users\\ak-mi\\.nuget\\packages\\",
-        "outputPath": "D:\\Fakullteti\\Ligjerata\\Semestri Rindjekje\\Hyrje ne Web Programim\\Projekti\\Employee-Management-System\\Paycompute.Services\\obj\\",
+        "projectPath": "C:\\Users\\User\\source\\repos\\repos\\Employee-Managment-System\\Employee-Management-System\\Paycompute.Services\\Paycompute.Services.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\User\\source\\repos\\repos\\Employee-Managment-System\\Employee-Management-System\\Paycompute.Services\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\ak-mi\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp2.2"
@@ -169,11 +175,11 @@
           "netcoreapp2.2": {
             "targetAlias": "netcoreapp2.2",
             "projectReferences": {
-              "D:\\Fakullteti\\Ligjerata\\Semestri Rindjekje\\Hyrje ne Web Programim\\Projekti\\Employee-Management-System\\Paycompute.Entity\\Paycompute.Entity.csproj": {
-                "projectPath": "D:\\Fakullteti\\Ligjerata\\Semestri Rindjekje\\Hyrje ne Web Programim\\Projekti\\Employee-Management-System\\Paycompute.Entity\\Paycompute.Entity.csproj"
+              "C:\\Users\\User\\source\\repos\\repos\\Employee-Managment-System\\Employee-Management-System\\Paycompute.Entity\\Paycompute.Entity.csproj": {
+                "projectPath": "C:\\Users\\User\\source\\repos\\repos\\Employee-Managment-System\\Employee-Management-System\\Paycompute.Entity\\Paycompute.Entity.csproj"
               },
-              "D:\\Fakullteti\\Ligjerata\\Semestri Rindjekje\\Hyrje ne Web Programim\\Projekti\\Employee-Management-System\\Paycompute.Persistence\\Paycompute.Persistence.csproj": {
-                "projectPath": "D:\\Fakullteti\\Ligjerata\\Semestri Rindjekje\\Hyrje ne Web Programim\\Projekti\\Employee-Management-System\\Paycompute.Persistence\\Paycompute.Persistence.csproj"
+              "C:\\Users\\User\\source\\repos\\repos\\Employee-Managment-System\\Employee-Management-System\\Paycompute.Persistence\\Paycompute.Persistence.csproj": {
+                "projectPath": "C:\\Users\\User\\source\\repos\\repos\\Employee-Managment-System\\Employee-Management-System\\Paycompute.Persistence\\Paycompute.Persistence.csproj"
               }
             }
           }
@@ -205,7 +211,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }
