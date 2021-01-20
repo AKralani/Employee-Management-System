@@ -24,6 +24,8 @@ namespace Paycompute.Services
 
         IEnumerable<Employee> GetAll();
 
+        IEnumerable<SelectListItem> GetAllEmployeesForPayroll();
+
 
     }
 }

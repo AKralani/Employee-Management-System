@@ -86,5 +86,13 @@ namespace Paycompute.Services.Implementation
             return fee;
             
         }
+        public IEnumerable<SelectListItem> GetAllEmployeesForPayroll()
+        {
+            return GetAll().Select(emp => new SelectListItem()
+            {
+                Text = emp.FullName,
+                Value =emp.Id.ToString()
+            });
+        }
     }
 }
