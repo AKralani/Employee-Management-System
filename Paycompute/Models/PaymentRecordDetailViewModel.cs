@@ -19,6 +19,7 @@ namespace Paycompute.Models
         public string PayMonth { get; set; } 
         [Display(Name = "Tax Year")]
         public int TaxYearId { get; set; }
+        public string Year { get; set; }
         public TaxYear TaxYear { get; set; }
         [Display(Name = "Tax Code")]
         public string TaxCode { get; set; } 
