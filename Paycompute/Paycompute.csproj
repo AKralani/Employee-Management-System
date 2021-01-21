@@ -11,9 +11,19 @@
     <PackageReference Include="Microsoft.AspNetCore.App" />
     <PackageReference Include="Microsoft.AspNetCore.Razor.Design" Version="2.2.0" PrivateAssets="All" />
     <PackageReference Include="Microsoft.NET.Sdk.Razor" Version="3.1.10" />
+    <PackageReference Include="RotativaCore" Version="2.2.0" />
   </ItemGroup>
 
-
+<ItemGroup>
+    <None Update="WkHtmlToPdf\wkhtmltoimage.exe">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="WkHtmlToPdf\wkhtmltopdf.exe">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+  
+    
   <ItemGroup>
     <ProjectReference Include="..\Paycompute.Entity\Paycompute.Entity.csproj" />
     <ProjectReference Include="..\Paycompute.Services\Paycompute.Services.csproj" />

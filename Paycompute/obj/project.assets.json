@@ -2783,6 +2783,19 @@
           "lib/netstandard1.0/Remotion.Linq.dll": {}
         }
       },
+      "RotativaCore/2.2.0": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.AspNetCore.Authentication.Cookies": "2.0.0",
+          "Microsoft.AspNetCore.Mvc": "2.0.0"
+        },
+        "compile": {
+          "lib/netstandard2.0/RotativaCore.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/RotativaCore.dll": {}
+        }
+      },
       "runtime.debian.8-x64.runtime.native.System.Security.Cryptography.OpenSsl/4.3.0": {
         "type": "package",
         "runtimeTargets": {
@@ -7534,6 +7547,18 @@
         "lib/portable-net45+win+wpa81+wp80/Remotion.Linq.xml",
         "remotion.linq.2.2.0.nupkg.sha512",
         "remotion.linq.nuspec"
+      ]
+    },
+    "RotativaCore/2.2.0": {
+      "sha512": "OIxrnyn4Q0mmht9wj49+ECXi8JR60tuZaXdAU+2XHbP/p/d0OMi6BZahcuRqKhbd5oCvafl2fwWdzoh/wZsjtA==",
+      "type": "package",
+      "path": "rotativacore/2.2.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/netstandard2.0/RotativaCore.dll",
+        "rotativacore.2.2.0.nupkg.sha512",
+        "rotativacore.nuspec"
       ]
     },
     "runtime.debian.8-x64.runtime.native.System.Security.Cryptography.OpenSsl/4.3.0": {
@@ -12303,31 +12328,29 @@
       "Microsoft.NET.Sdk.Razor >= 3.1.10",
       "Microsoft.NETCore.App >= 2.2.0",
       "Paycompute.Entity >= 1.0.0",
-      "Paycompute.Services >= 1.0.0"
+      "Paycompute.Services >= 1.0.0",
+      "RotativaCore >= 2.2.0"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\User\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {},
+    "C:\\Users\\Lenovo\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\source\\repos\\repos\\Employee-Managment-System\\Employee-Management-System\\Paycompute\\Paycompute.csproj",
+      "projectUniqueName": "C:\\Users\\Lenovo\\source\\repos\\Employee-Management-System\\Paycompute\\Paycompute.csproj",
       "projectName": "Paycompute",
-      "projectPath": "C:\\Users\\User\\source\\repos\\repos\\Employee-Managment-System\\Employee-Management-System\\Paycompute\\Paycompute.csproj",
-      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\source\\repos\\repos\\Employee-Managment-System\\Employee-Management-System\\Paycompute\\obj\\",
+      "projectPath": "C:\\Users\\Lenovo\\source\\repos\\Employee-Management-System\\Paycompute\\Paycompute.csproj",
+      "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Lenovo\\source\\repos\\Employee-Management-System\\Paycompute\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\",
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.2"
@@ -12340,11 +12363,11 @@
         "netcoreapp2.2": {
           "targetAlias": "netcoreapp2.2",
           "projectReferences": {
-            "C:\\Users\\User\\source\\repos\\repos\\Employee-Managment-System\\Employee-Management-System\\Paycompute.Entity\\Paycompute.Entity.csproj": {
-              "projectPath": "C:\\Users\\User\\source\\repos\\repos\\Employee-Managment-System\\Employee-Management-System\\Paycompute.Entity\\Paycompute.Entity.csproj"
+            "C:\\Users\\Lenovo\\source\\repos\\Employee-Management-System\\Paycompute.Entity\\Paycompute.Entity.csproj": {
+              "projectPath": "C:\\Users\\Lenovo\\source\\repos\\Employee-Management-System\\Paycompute.Entity\\Paycompute.Entity.csproj"
             },
-            "C:\\Users\\User\\source\\repos\\repos\\Employee-Managment-System\\Employee-Management-System\\Paycompute.Services\\Paycompute.Services.csproj": {
-              "projectPath": "C:\\Users\\User\\source\\repos\\repos\\Employee-Managment-System\\Employee-Management-System\\Paycompute.Services\\Paycompute.Services.csproj"
+            "C:\\Users\\Lenovo\\source\\repos\\Employee-Management-System\\Paycompute.Services\\Paycompute.Services.csproj": {
+              "projectPath": "C:\\Users\\Lenovo\\source\\repos\\Employee-Management-System\\Paycompute.Services\\Paycompute.Services.csproj"
             }
           }
         }
@@ -12379,6 +12402,10 @@
             "target": "Package",
             "version": "[2.2.0, )",
             "autoReferenced": true
+          },
+          "RotativaCore": {
+            "target": "Package",
+            "version": "[2.2.0, )"
           }
         },
         "imports": [
@@ -12391,7 +12418,7 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }
