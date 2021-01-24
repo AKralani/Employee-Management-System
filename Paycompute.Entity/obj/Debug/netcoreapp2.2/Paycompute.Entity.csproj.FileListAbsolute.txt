@@ -16,15 +16,6 @@ C:\Users\Lenovo\Source\Repos\Employee-Management-System\Paycompute.Entity\obj\De
 C:\Users\Lenovo\Source\Repos\Employee-Management-System\Paycompute.Entity\obj\Debug\netcoreapp2.2\Paycompute.Entity.csproj.CoreCompileInputs.cache
 C:\Users\Lenovo\Source\Repos\Employee-Management-System\Paycompute.Entity\obj\Debug\netcoreapp2.2\Paycompute.Entity.dll
 C:\Users\Lenovo\Source\Repos\Employee-Management-System\Paycompute.Entity\obj\Debug\netcoreapp2.2\Paycompute.Entity.pdb
-D:\Fakullteti\Ligjerata\Semestri Rindjekje\Hyrje ne Web Programim\Projekti\Employee-Management-System\Paycompute.Entity\bin\Debug\netcoreapp2.2\Paycompute.Entity.deps.json
-D:\Fakullteti\Ligjerata\Semestri Rindjekje\Hyrje ne Web Programim\Projekti\Employee-Management-System\Paycompute.Entity\bin\Debug\netcoreapp2.2\Paycompute.Entity.dll
-D:\Fakullteti\Ligjerata\Semestri Rindjekje\Hyrje ne Web Programim\Projekti\Employee-Management-System\Paycompute.Entity\bin\Debug\netcoreapp2.2\Paycompute.Entity.pdb
-D:\Fakullteti\Ligjerata\Semestri Rindjekje\Hyrje ne Web Programim\Projekti\Employee-Management-System\Paycompute.Entity\obj\Debug\netcoreapp2.2\Paycompute.Entity.csprojAssemblyReference.cache
-D:\Fakullteti\Ligjerata\Semestri Rindjekje\Hyrje ne Web Programim\Projekti\Employee-Management-System\Paycompute.Entity\obj\Debug\netcoreapp2.2\Paycompute.Entity.AssemblyInfoInputs.cache
-D:\Fakullteti\Ligjerata\Semestri Rindjekje\Hyrje ne Web Programim\Projekti\Employee-Management-System\Paycompute.Entity\obj\Debug\netcoreapp2.2\Paycompute.Entity.AssemblyInfo.cs
-D:\Fakullteti\Ligjerata\Semestri Rindjekje\Hyrje ne Web Programim\Projekti\Employee-Management-System\Paycompute.Entity\obj\Debug\netcoreapp2.2\Paycompute.Entity.csproj.CoreCompileInputs.cache
-D:\Fakullteti\Ligjerata\Semestri Rindjekje\Hyrje ne Web Programim\Projekti\Employee-Management-System\Paycompute.Entity\obj\Debug\netcoreapp2.2\Paycompute.Entity.dll
-D:\Fakullteti\Ligjerata\Semestri Rindjekje\Hyrje ne Web Programim\Projekti\Employee-Management-System\Paycompute.Entity\obj\Debug\netcoreapp2.2\Paycompute.Entity.pdb
 C:\Users\User\source\repos\repos\Employee-Managment-System\Employee-Management-System\Paycompute.Entity\bin\Debug\netcoreapp2.2\Paycompute.Entity.deps.json
 C:\Users\User\source\repos\repos\Employee-Managment-System\Employee-Management-System\Paycompute.Entity\bin\Debug\netcoreapp2.2\Paycompute.Entity.dll
 C:\Users\User\source\repos\repos\Employee-Managment-System\Employee-Management-System\Paycompute.Entity\bin\Debug\netcoreapp2.2\Paycompute.Entity.pdb
@@ -34,3 +25,11 @@ C:\Users\User\source\repos\repos\Employee-Managment-System\Employee-Management-S
 C:\Users\User\source\repos\repos\Employee-Managment-System\Employee-Management-System\Paycompute.Entity\obj\Debug\netcoreapp2.2\Paycompute.Entity.csproj.CoreCompileInputs.cache
 C:\Users\User\source\repos\repos\Employee-Managment-System\Employee-Management-System\Paycompute.Entity\obj\Debug\netcoreapp2.2\Paycompute.Entity.dll
 C:\Users\User\source\repos\repos\Employee-Managment-System\Employee-Management-System\Paycompute.Entity\obj\Debug\netcoreapp2.2\Paycompute.Entity.pdb
+D:\Fakullteti\Ligjerata\Semestri Rindjekje\Hyrje ne Web Programim\Projekti\Employee-Management-System\Paycompute.Entity\bin\Debug\netcoreapp2.2\Paycompute.Entity.deps.json
+D:\Fakullteti\Ligjerata\Semestri Rindjekje\Hyrje ne Web Programim\Projekti\Employee-Management-System\Paycompute.Entity\bin\Debug\netcoreapp2.2\Paycompute.Entity.dll
+D:\Fakullteti\Ligjerata\Semestri Rindjekje\Hyrje ne Web Programim\Projekti\Employee-Management-System\Paycompute.Entity\bin\Debug\netcoreapp2.2\Paycompute.Entity.pdb
+D:\Fakullteti\Ligjerata\Semestri Rindjekje\Hyrje ne Web Programim\Projekti\Employee-Management-System\Paycompute.Entity\obj\Debug\netcoreapp2.2\Paycompute.Entity.AssemblyInfoInputs.cache
+D:\Fakullteti\Ligjerata\Semestri Rindjekje\Hyrje ne Web Programim\Projekti\Employee-Management-System\Paycompute.Entity\obj\Debug\netcoreapp2.2\Paycompute.Entity.AssemblyInfo.cs
+D:\Fakullteti\Ligjerata\Semestri Rindjekje\Hyrje ne Web Programim\Projekti\Employee-Management-System\Paycompute.Entity\obj\Debug\netcoreapp2.2\Paycompute.Entity.csproj.CoreCompileInputs.cache
+D:\Fakullteti\Ligjerata\Semestri Rindjekje\Hyrje ne Web Programim\Projekti\Employee-Management-System\Paycompute.Entity\obj\Debug\netcoreapp2.2\Paycompute.Entity.dll
+D:\Fakullteti\Ligjerata\Semestri Rindjekje\Hyrje ne Web Programim\Projekti\Employee-Management-System\Paycompute.Entity\obj\Debug\netcoreapp2.2\Paycompute.Entity.pdb
