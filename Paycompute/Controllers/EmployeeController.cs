@@ -8,9 +8,11 @@ using Paycompute.Models;
 using Microsoft.AspNetCore.Hosting.Internal;
 using System.IO;
 using Paycompute.Entity;
+using Microsoft.AspNetCore.Authorization;
 
 namespace Paycompute.Controllers
 {
+    [Authorize]
     public class EmployeeController : Controller
     {
         private readonly IEmployeeService _employeeService;
