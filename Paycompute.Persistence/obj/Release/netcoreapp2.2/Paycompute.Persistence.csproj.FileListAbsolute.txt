@@ -1,0 +1,15 @@
+C:\Users\Lenovo\source\repos\Employee-Management-System\Paycompute.Persistence\bin\Release\netcoreapp2.2\Paycompute.Persistence.deps.json
+C:\Users\Lenovo\source\repos\Employee-Management-System\Paycompute.Persistence\bin\Release\netcoreapp2.2\Paycompute.Persistence.runtimeconfig.json
+C:\Users\Lenovo\source\repos\Employee-Management-System\Paycompute.Persistence\bin\Release\netcoreapp2.2\Paycompute.Persistence.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\Employee-Management-System\Paycompute.Persistence\bin\Release\netcoreapp2.2\Paycompute.Persistence.dll
+C:\Users\Lenovo\source\repos\Employee-Management-System\Paycompute.Persistence\bin\Release\netcoreapp2.2\Paycompute.Persistence.pdb
+C:\Users\Lenovo\source\repos\Employee-Management-System\Paycompute.Persistence\bin\Release\netcoreapp2.2\Paycompute.Entity.dll
+C:\Users\Lenovo\source\repos\Employee-Management-System\Paycompute.Persistence\bin\Release\netcoreapp2.2\Paycompute.Entity.pdb
+C:\Users\Lenovo\source\repos\Employee-Management-System\Paycompute.Persistence\obj\Release\netcoreapp2.2\Paycompute.Persistence.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\Employee-Management-System\Paycompute.Persistence\obj\Release\netcoreapp2.2\Paycompute.Persistence.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\Employee-Management-System\Paycompute.Persistence\obj\Release\netcoreapp2.2\Paycompute.Persistence.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\Employee-Management-System\Paycompute.Persistence\obj\Release\netcoreapp2.2\Paycompute.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Employee-Management-System\Paycompute.Persistence\obj\Release\netcoreapp2.2\Paycompute.Persistence.csproj.CopyComplete
+C:\Users\Lenovo\source\repos\Employee-Management-System\Paycompute.Persistence\obj\Release\netcoreapp2.2\Paycompute.Persistence.dll
+C:\Users\Lenovo\source\repos\Employee-Management-System\Paycompute.Persistence\obj\Release\netcoreapp2.2\Paycompute.Persistence.pdb
+C:\Users\Lenovo\source\repos\Employee-Management-System\Paycompute.Persistence\obj\Release\netcoreapp2.2\Paycompute.Persistence.genruntimeconfig.cache
