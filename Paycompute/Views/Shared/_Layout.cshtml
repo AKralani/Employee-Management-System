@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>@ViewData["Title"] - Paycompute</title>
+    <title>@ViewData["Title"] - Employee Management System</title>
 
     <environment include="Development">
         <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.css" />
@@ -23,7 +23,8 @@
     <div class="container-scroller">
         <nav class="navbar col-lg-12 col-12 p-0 fixed-top d-flex flex-row">
             <div class="text-center navbar-brand-wrapper d-flex align-items-center justify-content-center">
-                <a class="navbar-brand brand-logo"> <img src="~/images/Paycompute2.gif" alt="logo"/></a>
+                <a class="navbar-brand brand-logo"> </a>
+                <h1><a style="color:#F2125E;" href="/Home">EMS</a></h1>
             </div>
             <div class="navbar-menu-wrapper d-flex align-items-center justify-content-end">
                 <partial name="_LoginPartial"/>
@@ -35,8 +36,8 @@
               <li class="nav-item">
                   <a class="nav-link" data-toggle="collapse" href="#Employee" aria-expanded="false" aria-controls="ui-basic">
                       <i class="fas fa-users fa-lg text-primary" style="margin-right:0.7em"></i>
-                      <span class="menu-title">Payroll</span>
-                      <i class="menu-arrow text-primary"></i>
+                      <span class="menu-title">Employee</span>
+                      <i class=" text-primary"></i>
                   </a>
                   <div class="collapse" id="Employee">
                       <ul class="nav flex-column sub-menu">
@@ -48,9 +49,9 @@
 
               <li class="nav-item">
                   <a class="nav-link" data-toggle="collapse" href="#Payroll" aria-expanded="false" aria-controls="ui-basic">
-                      <i class="fas fa-euro-sign fa-lg text-primary" style="margin-right:0.7em"></i>
-                      <span class="menu-title">Payroll</span>
-                      <i class="menu-arrow text-primary"></i>
+                      &nbsp;<i class="fas fa-euro-sign fa-lg text-primary" style="margin-right:0.7em"></i>
+                      <span class="menu-title">&nbsp;&nbsp;Payroll</span>
+                      <i class=" text-primary"></i>
                   </a>
                   <div class="collapse" id="Payroll">
                       <ul class="nav flex-column sub-menu">
@@ -67,7 +68,7 @@
              @RenderBody()
        </div>
          <footer class="footer">
-             <p> &copy; @DateTime.UtcNow.Year - Paycompute - <a aps-area="" asp-controller="Home" asp-action="Privacy">Privacy</a></p>
+             <p> &copy; @DateTime.UtcNow.Year - Employee Management System - <a aps-area="" asp-controller="Home" asp-action="Privacy">About Us</a></p>
 
          </footer>
      </div>

@@ -1,0 +1,7 @@
+D:\Fakullteti\Ligjerata\Semestri Rindjekje\Hyrje ne Web Programim\Projekti\Employee-Management-System\Paycompute\obj\Release\netcoreapp3.0\Paycompute.AssemblyInfoInputs.cache
+D:\Fakullteti\Ligjerata\Semestri Rindjekje\Hyrje ne Web Programim\Projekti\Employee-Management-System\Paycompute\obj\Release\netcoreapp3.0\Paycompute.AssemblyInfo.cs
+D:\Fakullteti\Ligjerata\Semestri Rindjekje\Hyrje ne Web Programim\Projekti\Employee-Management-System\Paycompute\obj\Release\netcoreapp3.0\Paycompute.csproj.CoreCompileInputs.cache
+D:\Fakullteti\Ligjerata\Semestri Rindjekje\Hyrje ne Web Programim\Projekti\Employee-Management-System\Paycompute\obj\Release\netcoreapp3.0\Paycompute.MvcApplicationPartsAssemblyInfo.cache
+D:\Fakullteti\Ligjerata\Semestri Rindjekje\Hyrje ne Web Programim\Projekti\Employee-Management-System\Paycompute\obj\Release\netcoreapp3.0\Paycompute.RazorAssemblyInfo.cache
+D:\Fakullteti\Ligjerata\Semestri Rindjekje\Hyrje ne Web Programim\Projekti\Employee-Management-System\Paycompute\obj\Release\netcoreapp3.0\Paycompute.RazorAssemblyInfo.cs
+D:\Fakullteti\Ligjerata\Semestri Rindjekje\Hyrje ne Web Programim\Projekti\Employee-Management-System\Paycompute\obj\Release\netcoreapp3.0\Paycompute.csprojAssemblyReference.cache

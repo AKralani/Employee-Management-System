@@ -1,9 +1,6 @@
-﻿using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
+﻿using Microsoft.AspNet.Identity.EntityFramework;
 using Microsoft.EntityFrameworkCore;
 using Paycompute.Entity;
-using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace Paycompute.Persistence
 {

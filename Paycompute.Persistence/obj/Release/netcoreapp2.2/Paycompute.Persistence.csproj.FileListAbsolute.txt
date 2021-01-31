@@ -13,3 +13,18 @@ C:\Users\Lenovo\source\repos\Employee-Management-System\Paycompute.Persistence\o
 C:\Users\Lenovo\source\repos\Employee-Management-System\Paycompute.Persistence\obj\Release\netcoreapp2.2\Paycompute.Persistence.dll
 C:\Users\Lenovo\source\repos\Employee-Management-System\Paycompute.Persistence\obj\Release\netcoreapp2.2\Paycompute.Persistence.pdb
 C:\Users\Lenovo\source\repos\Employee-Management-System\Paycompute.Persistence\obj\Release\netcoreapp2.2\Paycompute.Persistence.genruntimeconfig.cache
+D:\Fakullteti\Ligjerata\Semestri Rindjekje\Hyrje ne Web Programim\Projekti\Employee-Management-System\Paycompute.Persistence\bin\Release\netcoreapp2.2\Paycompute.Persistence.deps.json
+D:\Fakullteti\Ligjerata\Semestri Rindjekje\Hyrje ne Web Programim\Projekti\Employee-Management-System\Paycompute.Persistence\bin\Release\netcoreapp2.2\Paycompute.Persistence.runtimeconfig.json
+D:\Fakullteti\Ligjerata\Semestri Rindjekje\Hyrje ne Web Programim\Projekti\Employee-Management-System\Paycompute.Persistence\bin\Release\netcoreapp2.2\Paycompute.Persistence.runtimeconfig.dev.json
+D:\Fakullteti\Ligjerata\Semestri Rindjekje\Hyrje ne Web Programim\Projekti\Employee-Management-System\Paycompute.Persistence\bin\Release\netcoreapp2.2\Paycompute.Persistence.dll
+D:\Fakullteti\Ligjerata\Semestri Rindjekje\Hyrje ne Web Programim\Projekti\Employee-Management-System\Paycompute.Persistence\bin\Release\netcoreapp2.2\Paycompute.Persistence.pdb
+D:\Fakullteti\Ligjerata\Semestri Rindjekje\Hyrje ne Web Programim\Projekti\Employee-Management-System\Paycompute.Persistence\bin\Release\netcoreapp2.2\Paycompute.Entity.dll
+D:\Fakullteti\Ligjerata\Semestri Rindjekje\Hyrje ne Web Programim\Projekti\Employee-Management-System\Paycompute.Persistence\bin\Release\netcoreapp2.2\Paycompute.Entity.pdb
+D:\Fakullteti\Ligjerata\Semestri Rindjekje\Hyrje ne Web Programim\Projekti\Employee-Management-System\Paycompute.Persistence\obj\Release\netcoreapp2.2\Paycompute.Persistence.csprojAssemblyReference.cache
+D:\Fakullteti\Ligjerata\Semestri Rindjekje\Hyrje ne Web Programim\Projekti\Employee-Management-System\Paycompute.Persistence\obj\Release\netcoreapp2.2\Paycompute.Persistence.AssemblyInfoInputs.cache
+D:\Fakullteti\Ligjerata\Semestri Rindjekje\Hyrje ne Web Programim\Projekti\Employee-Management-System\Paycompute.Persistence\obj\Release\netcoreapp2.2\Paycompute.Persistence.AssemblyInfo.cs
+D:\Fakullteti\Ligjerata\Semestri Rindjekje\Hyrje ne Web Programim\Projekti\Employee-Management-System\Paycompute.Persistence\obj\Release\netcoreapp2.2\Paycompute.Persistence.csproj.CoreCompileInputs.cache
+D:\Fakullteti\Ligjerata\Semestri Rindjekje\Hyrje ne Web Programim\Projekti\Employee-Management-System\Paycompute.Persistence\obj\Release\netcoreapp2.2\Paycompute.Persistence.csproj.CopyComplete
+D:\Fakullteti\Ligjerata\Semestri Rindjekje\Hyrje ne Web Programim\Projekti\Employee-Management-System\Paycompute.Persistence\obj\Release\netcoreapp2.2\Paycompute.Persistence.dll
+D:\Fakullteti\Ligjerata\Semestri Rindjekje\Hyrje ne Web Programim\Projekti\Employee-Management-System\Paycompute.Persistence\obj\Release\netcoreapp2.2\Paycompute.Persistence.pdb
+D:\Fakullteti\Ligjerata\Semestri Rindjekje\Hyrje ne Web Programim\Projekti\Employee-Management-System\Paycompute.Persistence\obj\Release\netcoreapp2.2\Paycompute.Persistence.genruntimeconfig.cache

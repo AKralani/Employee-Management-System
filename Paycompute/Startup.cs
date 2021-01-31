@@ -15,6 +15,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using Microsoft.Extensions.Hosting;
 
 namespace Paycompute
 {
@@ -42,7 +43,6 @@ namespace Paycompute
                     Configuration.GetConnectionString("DefaultConnection")));
 
             services.AddIdentity<IdentityUser, IdentityRole>()
-                .AddDefaultUI(UIFramework.Bootstrap4)
                 .AddEntityFrameworkStores<ApplicationDbContext>()
                 .AddDefaultTokenProviders();
 
@@ -61,7 +61,16 @@ namespace Paycompute
                 options.Lockout.AllowedForNewUsers = true;
             });
 
-            services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
+            services.ConfigureApplicationCookie(options =>
+            {
+                options.LoginPath = $"/Identity/Account/Login";
+                options.LogoutPath = $"/Identity/Account/Logout";
+                options.AccessDeniedPath = $"/Identity/Account/AccessDenied";
+            });
+
+            services.AddControllersWithViews();
+            services.AddRazorPages();
+
             services.AddScoped<IEmployeeService, EmployeeService>();
             services.AddScoped<IPayComputationService, PayComputationService>();
             services.AddScoped<INationalInsuranceContributionService, NationalInsuranceContributionService>();
@@ -69,15 +78,13 @@ namespace Paycompute
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
-        public void Configure(IApplicationBuilder app, 
-                                IHostingEnvironment env, 
+        public void Configure(IApplicationBuilder app, IWebHostEnvironment env,
                                 UserManager<IdentityUser> userManager, 
                                 RoleManager<IdentityRole> roleManager)
         {
             if (env.IsDevelopment())
             {
                 app.UseDeveloperExceptionPage();
-                app.UseDatabaseErrorPage();
             }
             else
             {
@@ -89,15 +96,18 @@ namespace Paycompute
             app.UseHttpsRedirection();
             app.UseStaticFiles();
             app.UseCookiePolicy();
+            app.UseRouting();
 
             app.UseAuthentication();
 
+            app.UseAuthorization();
             DataSeedingInitializer.UserAndRoleSeedAsync(userManager, roleManager).Wait();
-            app.UseMvc(routes =>
+            app.UseEndpoints(routes =>
             {
-                routes.MapRoute(
+                routes.MapControllerRoute(
                     name: "default",
-                    template: "{controller=Home}/{action=Index}/{id?}");
+                    pattern: "{controller=Home}/{action=Index}/{id?}");
+                routes.MapRazorPages();
             });
         }
     }

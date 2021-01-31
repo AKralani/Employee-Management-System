@@ -1,16 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yBbIOwqFZame06S/0lcJJgX2vGjF+Il9mBGixdBxOboqcRKJAOBZm31mX5k7zxk5+OEqIOyQ+SlgbZPojK3hGA==",
+  "dgSpecHash": "5U3eT6k67RGpR4JGUheYLMKn0qPM6B41iCI4nu3AIH3UTGdti4k4zhXfpogAHWU9Y544q7XZaCKweE4joCpEHQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Lenovo\\source\\repos\\Employee-Management-System\\Paycompute.Entity\\Paycompute.Entity.csproj",
-  "expectedPackageFiles": [
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.app\\2.2.0\\microsoft.netcore.app.2.2.0.nupkg.sha512",
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.dotnetapphost\\2.2.0\\microsoft.netcore.dotnetapphost.2.2.0.nupkg.sha512",
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.dotnethostpolicy\\2.2.0\\microsoft.netcore.dotnethostpolicy.2.2.0.nupkg.sha512",
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.dotnethostresolver\\2.2.0\\microsoft.netcore.dotnethostresolver.2.2.0.nupkg.sha512",
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\2.2.0\\microsoft.netcore.platforms.2.2.0.nupkg.sha512",
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.targets\\2.0.0\\microsoft.netcore.targets.2.0.0.nupkg.sha512",
-    "C:\\Users\\Lenovo\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
-  ],
+  "projectFilePath": "D:\\Fakullteti\\Ligjerata\\Semestri Rindjekje\\Hyrje ne Web Programim\\Projekti\\Employee-Management-System\\Paycompute.Entity\\Paycompute.Entity.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

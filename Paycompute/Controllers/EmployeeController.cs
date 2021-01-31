@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Paycompute.Services;
 using Paycompute.Models;
-using Microsoft.AspNetCore.Hosting.Internal;
+using Microsoft.AspNetCore.Hosting;
 using System.IO;
 using Paycompute.Entity;
 using Microsoft.AspNetCore.Authorization;
@@ -16,8 +16,8 @@ namespace Paycompute.Controllers
     public class EmployeeController : Controller
     {
         private readonly IEmployeeService _employeeService;
-        private readonly HostingEnvironment _hostingEnvironment;
-        public EmployeeController(IEmployeeService employeeService, HostingEnvironment hostingEnvironment)
+        private readonly IWebHostEnvironment _hostingEnvironment;
+        public EmployeeController(IEmployeeService employeeService, IWebHostEnvironment hostingEnvironment)
         {
             _employeeService = employeeService;
             _hostingEnvironment = hostingEnvironment;
